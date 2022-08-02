@@ -1,0 +1,11 @@
+div {
+    border: 1px solid red;
+    padding-left: 10px;
+    fill: red;
+    grid-template-columns: 2fr 1fr; 
+
+}
+
+.container {
+}
+
